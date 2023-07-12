@@ -1,8 +1,7 @@
 
-UCB Data Analysis Group Project 2
+**UCB Data Analysis Group Project 2**
 # Crowdfunding ETL
 
-by J. Bailey, M. Bernstein, J. Demler, R. Hinz and H. Hosford
 ---------------
 #### Purpose:
 Description here.
@@ -18,8 +17,12 @@ Description here.
 - 1 x README file
 
 -------------------
-#### Contributing:
-N/A
+#### Contributors:
+Jessica Bailey  
+Michael Bernstein  
+Joe Demler  
+Ronda Hinz  
+Hannah Hosford  
 
 ------------------
 #### License:
