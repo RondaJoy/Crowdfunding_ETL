@@ -4,7 +4,7 @@
 
 ---------------
 #### Purpose:
-Description here.
+In this repo you will find our updated and clean crowfunding data. We accomplished this by studying the data that was provided to us and we separated the data into multiple dataframes using the category and subcategory IDs. We had to do this in order to combine all of the spreadsheets and be able to make the data eaisly accesssible. The final section of this repo are all of the updated spreadsheets in the crowfunding database that has all of the relevant tables. We also decided to do both the panda and regex contact databases as a bonus. 
 
 --------------
 #### Contents of Repository:
@@ -22,7 +22,7 @@ Jessica Bailey
 Michael Bernstein  
 Joe Demler  
 Ronda Hinz  
-Hannah Hosford  
+
 
 ------------------
 #### License:
