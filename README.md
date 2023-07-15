@@ -9,15 +9,15 @@ In this repo you will find our updated and clean crowfunding data. We accomplish
 --------------
 #### Contents of Repository:
 - Code Scripts
-  - 1 x .ipynb python notebook, shared (ETL_Mini_Project_JBailey_MBernstein_JDemler_RHinz_HHosford.ipynb)
+  - 1 x .ipynb python notebook, shared (ETL_Mini_Project_JBailey_MBernstein_JDemler_RHinz.ipynb)
   - 1 x .sql database schema (crowdfunding_db_schema.sql)
   - 1 x .sql database (crowdfunding_db.sql)
 - ERD Files
   - 1 x ERD visual (crowdfunding_project_2_ERD.png)
   - 1 x ERD text to use in QuickDBD (crowdfunding_ERD_text.docx)
 - **FOLDER:** Resources
-  - 3 x .xlsx data files for import (contacts.xlsx | crowdfunding.xlsx | contacts_verification.xlsx)
-  - 5 x .csv data files, code exports (category.csv | subcategory.csv | campaign.csv | contacts.csv | contacts_option2.csv)
+  - 2 x .xlsx data files for import (contacts.xlsx | crowdfunding.xlsx)
+  - 4 x .csv data files, code exports (category.csv | subcategory.csv | campaign.csv | contacts.csv)
 - 1 x README file
 
 -------------------
